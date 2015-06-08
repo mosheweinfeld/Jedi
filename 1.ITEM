@@ -1,0 +1,12 @@
+//MANDATORY ATTRIBUTES
+NAME - Name of the Item
+TYPE - Type of the Item; primary, offhand, head, body, etc.
+DESCRIPTION - A brief description of the item
+VALUE - What the item will sell for at a vendor, can be set to NOSELL to prevent selling of the item
+
+//OPTIONAL ATTRIBUTES
+CRAFT - A string consisting of the components that can be used to craft this item
+	example: "10,27,33"
+
+
+COMBAT - Optional melee, ranged
