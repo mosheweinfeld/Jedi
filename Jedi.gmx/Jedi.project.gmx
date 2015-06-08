@@ -8,13 +8,21 @@
   <sprites name="sprites">
     <sprite>sprites\spr_CloneTrooper</sprite>
     <sprite>sprites\spr_Player</sprite>
+    <sprite>sprites\spr_Lightsaber</sprite>
+    <sprite>sprites\spr_Laser</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_Player</object>
     <object>objects\obj_CloneTroopers</object>
+    <object>objects\obj_Laser</object>
+    <object>objects\obj_Lightsaber</object>
+    <object>objects\pnt_Enemy</object>
   </objects>
+  <rooms name="rooms">
+    <room>rooms\rm_Main</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
