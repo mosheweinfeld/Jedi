@@ -7,9 +7,14 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\spr_CloneTrooper</sprite>
+    <sprite>sprites\spr_Player</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\obj_Player</object>
+    <object>objects\obj_CloneTroopers</object>
+  </objects>
   <help>
     <rtf>help.rtf</rtf>
   </help>
