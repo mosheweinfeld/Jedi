@@ -16,8 +16,6 @@
   <objects name="objects">
     <object>objects\obj_Player</object>
     <object>objects\obj_CloneTroopers</object>
-    <object>objects\obj_Laser</object>
-    <object>objects\obj_Lightsaber</object>
     <object>objects\pnt_Enemy</object>
   </objects>
   <rooms name="rooms">
