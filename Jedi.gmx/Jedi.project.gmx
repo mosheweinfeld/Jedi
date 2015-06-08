@@ -13,10 +13,18 @@
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <scripts name="AI Behaviours">
+      <script>scripts\scr_AIFight.gml</script>
+    </scripts>
+  </scripts>
   <objects name="objects">
     <object>objects\obj_Player</object>
     <object>objects\obj_CloneTroopers</object>
     <object>objects\pnt_Enemy</object>
+    <object>objects\obj_PartyManager</object>
+    <object>objects\pnt_Ally</object>
+    <object>objects\obj_BattleManager</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_Main</room>

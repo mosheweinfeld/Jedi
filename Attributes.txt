@@ -1,0 +1,6 @@
+Strength - Physical Strength, Skill Strength
+Constitution - Vitality, Physical Defense
+Reflex - Attack Speed, Hit Chance
+Intelligence - Force Strength, Force/Skill Cost
+Will - Force Reserve/Skill Energy, Force Resistance
+Wit - Dodge, Crit Chance
